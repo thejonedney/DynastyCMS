@@ -751,6 +751,7 @@ pre code {
 .col-11 {
   -ms-flex: 0 0 91.666667%;
   flex: 0 0 91.666667%;
+
   max-width: 91.666667%;
 }
 
@@ -1736,7 +1737,7 @@ pre code {
 }
 
 .table-striped tbody tr:nth-of-type(odd) {
-  background-color: rgba(0, 0, 0, 0.05);
+  background-color: #cccccc;
 }
 
 .table-hover tbody tr:hover {
@@ -2302,6 +2303,7 @@ textarea.form-control {
 
 .was-validated .form-check-input:valid ~ .valid-feedback,
 .was-validated .form-check-input:valid ~ .valid-tooltip, .form-check-input.is-valid ~ .valid-feedback,
+
 .form-check-input.is-valid ~ .valid-tooltip {
   display: block;
 }
@@ -10220,5 +10222,414 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
+}
+/*# sourceMappingURL=bootstrap.css.map */
+	
+	.text-1 {
+	  color: #fd0001 !important;
+	}
+	
+.text-2 {
+  color: #fd0001 !important;
+}
+	
+.text-3 {
+  color: #fd0001 !important;
+}
+
+.text-4 {
+  color: #fd0001 !important;
+}
+	
+.text-5 {
+  color: #fd0001 !important;
+}
+	
+.text-6 {
+  color: #fd0001 !important;
+}
+	
+.text-7 {
+  color: #fd0001 !important;
+}
+	
+.text-8 {
+  color: #fd0001 !important;
+}
+	
+.text-9 {
+  color: #fd0001 !important;
+}
+
+.text-10 {
+  color: #fd0001 !important;
+}
+	
+.text-11 {
+  color: #fd0001 !important;
+}
+	
+.text-12 {
+  color: #fd0001 !important;
+}
+	
+.text-13 {
+  color: #fd0001 !important;
+}
+	
+.text-14 {
+  color: #fd0001 !important;
+}	
+	
+.text-15 {
+  color: #fd0001 !important;
+}	
+	
+.text-16 {
+  color: #fd0001 !important;
+}	
+	
+.text-17 {
+  color: #fd0001 !important;
+}	
+	
+.text-18 {
+  color: #fd0001 !important;
+}	
+	
+.text-19 {
+  color: #fd0001 !important;
+}	
+	
+.text-20 {
+  color: #fcf908 !important;
+}	
+	
+.text-20 {
+  color: #fcf908 !important;
+}	
+	
+.text-21 {
+  color: #fcf908 !important;
+}	
+	
+.text-22 {
+  color: #fcf908 !important;
+}	
+	
+.text-23 {
+  color: #fcf908 !important;
+}	
+	
+.text-24 {
+  color: #fcf908 !important;
+}	
+	
+.text-25 {
+  color: #fcf908 !important;
+}	
+	
+.text-26 {
+  color: #fcf908 !important;
+}	
+	
+.text-27 {
+  color: #fcf908 !important;
+}	
+	
+.text-28 {
+  color: #fcf908 !important;
+}	
+	
+.text-29 {
+  color: #fcf908 !important;
+}	
+	
+.text-30 {
+  color: #fcf908 !important;
+}	
+	
+.text-31 {
+  color: #fcf908 !important;
+}	
+	
+.text-32 {
+  color: #fcf908 !important;
+}	
+	
+.text-33 {
+  color: #fcf908 !important;
+}	
+	
+.text-34 {
+  color: #fcf908 !important;
+}	
+	
+.text-35 {
+  color: #fcf908 !important;
+}	
+	
+.text-36 {
+  color: #fcf908 !important;
+}	
+	
+.text-37 {
+  color: #fcf908 !important;
+}	
+	
+.text-38 {
+  color: #fcf908 !important;
+}	
+	
+.text-39 {
+  color: #fcf908 !important;
+}	
+	
+.text-40 {
+  color: #b8e69b !important;
+}	
+	
+.text-41 {
+  color: #b8e69b !important;
+}	
+	
+.text-42 {
+  color: #b8e69b !important;
+}	
+	
+.text-43 {
+  color: #b8e69b !important;
+}	
+	
+.text-44 {
+  color: #b8e69b !important;
+}	
+	
+.text-45 {
+  color: #b8e69b !important;
+}	
+	
+.text-46 {
+  color: #b8e69b !important;
+}	
+	
+.text-47 {
+  color: #b8e69b !important;
+}	
+	
+.text-48 {
+  color: #b8e69b !important;
+}	
+	
+.text-49 {
+  color: #b8e69b !important;
+}	
+	
+.text-50 {
+  color: #b8e69b !important;
+}	
+	
+.text-51 {
+  color: #b8e69b !important;
+}	
+	
+.text-52 {
+  color: #b8e69b !important;
+}	
+	
+.text-53 {
+  color: #b8e69b !important;
+}	
+	
+.text-54 {
+  color: #b8e69b !important;
+}	
+	
+.text-55 {
+  color: #b8e69b !important;
+}	
+	
+.text-56 {
+  color: #b8e69b !important;
+}	
+	
+.text-57 {
+  color: #b8e69b !important;
+}	
+	
+.text-58 {
+  color: #b8e69b !important;
+}	
+	
+.text-59 {
+  color: #b8e69b !important;
+}	
+	
+.text-60 {
+  color: #b8e69b !important;
+}	
+	
+.text-61 {
+  color: #b8e69b !important;
+}	
+	
+.text-62 {
+  color: #b8e69b !important;
+}	
+	
+.text-63 {
+  color: #b8e69b !important;
+}	
+	
+.text-64 {
+  color: #b8e69b !important;
+}	
+	
+.text-65 {
+  color: #b8e69b !important;
+}	
+	
+.text-66 {
+  color: #b8e69b !important;
+}	
+	
+.text-67 {
+  color: #b8e69b !important;
+}	
+	
+.text-68 {
+  color: #b8e69b !important;
+}	
+	
+.text-69 {
+  color: #b8e69b !important;
+}	
+	
+.text-70 {
+  color: #04eb06 !important;
+}	
+	
+.text-71 {
+  color: #04eb06 !important;
+}	
+	
+.text-72 {
+  color: #04eb06 !important;
+}	
+	
+.text-73 {
+  color: #04eb06 !important;
+}	
+	
+.text-74 {
+  color: #04eb06 !important;
+}	
+	
+.text-75 {
+  color: #04eb06 !important;
+}
+	
+.text-76 {
+  color: #04eb06 !important;
+}	
+	
+.text-77 {
+  color: #04eb06 !important;
+}	
+	
+.text-78 {
+  color: #04eb06 !important;
+}
+	
+.text-79 {
+  color: #04eb06 !important;
+}	
+	
+.text-80 {
+  color: #04eb06 !important;
+}	
+	
+.text-81 {
+  color: #04eb06 !important;
+}	
+	
+.text-82 {
+  color: #04eb06 !important;
+}	
+	
+.text-83 {
+  color: #04eb06 !important;
+}	
+	
+.text-84 {
+  color: #04eb06 !important;
+}	
+	
+.text-85 {
+  color: #7ffcfc !important;
+}
+	
+.text-86 {
+  color: #7ffcfc !important;
+}	
+	
+.text-86 {
+  color: #7ffcfc !important;
+}	
+	
+.text-87 {
+  color: #7ffcfc !important;
+}	
+	
+.text-88 {
+  color: #7ffcfc !important;
+}	
+	
+.text-89 {
+  color: #7ffcfc !important;
+}	
+	
+.text-90 {
+  color: #7ffcfc !important;
+}	
+	
+.text-91 {
+  color: #7ffcfc !important;
+}		
+	
+.text-92 {
+  color: #7ffcfc !important;
+}		
+	
+.text-93 {
+  color: #7ffcfc !important;
+}		
+	
+.text-94 {
+  color: #7ffcfc !important;
+}	
+	
+.text-95 {
+  color: #7ffcfc !important;
+}		
+	
+.text-96 {
+  color: #7ffcfc !important;
+}		
+	
+.text-97 {
+  color: #7ffcfc !important;
+}		
+	
+.text-98 {
+  color: #7ffcfc !important;
+}		
+	
+.text-99 {
+  color: #7ffcfc !important;
+}		
+	
+.text-100 {
+  color: #7ffcfc !important;
 }
 /*# sourceMappingURL=bootstrap.css.map */
